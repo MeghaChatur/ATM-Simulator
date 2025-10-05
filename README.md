@@ -42,7 +42,7 @@
 
 ## Screenshots
 
-![login](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/5a55fabf-422b-4529-b67f-6381024294b5)
+![login](https://github.com/MeghaChatur/ATM-Simulator/blob/722d84b643f14dd449d29630f8c7045ae0b38b6a/Login%20Page.png)
 ![signup1](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/5aa34aec-4ff1-41a5-99d6-d54cdfd32265)
 ![transaction](https://github.com/shivamverma26/ATM_Simulator/assets/94590743/4cb12f21-36c0-4c81-a8b9-70034c15c9df)
 
